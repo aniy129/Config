@@ -7,7 +7,7 @@ configruation files for java application
 *这个是斜体*
 ***这个是粗体加斜体***
 
-```
+```java
 @Override
 protected void onDestroy() {
     EventBus.getDefault().unregister(this);
